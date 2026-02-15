@@ -4,10 +4,17 @@ Welcome to my data science repository! Here I share my projects, analysis, and m
 
 ## 🚀 Projects Overview
 
-| Project / Notebook Name                                                                   | Description                                                                                                | Tech Stack                                       |
+| Project / Notebook Name | Description | Tech Stack |
+
 | :---------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------- | :----------------------------------------------- |
-| **[AML Detection Case Study](<./Anti_Money_Laundering_Transaction_Data_(SAML_D).ipynb>)** | End-to-end pipeline to detect illicit transactions in imbalanced data using behavioral features and SMOTE. | `XGBoost`, `SMOTE`, `Scikit-learn`, `Pandas`     |
-| **[Stock Price Forecasting](./Stock_predict_nuralprhophet.ipynb)**                        | Time-series forecasting using NeuralProphet to identify market trends and seasonal patterns.               | `NeuralProphet`, `PyTorch`, `yfinance`, `Pandas` |
+
+| **[AML Detection Case Study](<./Anti_Money_Laundering_Transaction_Data_(SAML_D).ipynb>)** | End-to-end pipeline to detect illicit transactions in imbalanced data using behavioral features and SMOTE. | `XGBoost`, `SMOTE`, `Scikit-learn`, `Pandas` |
+
+| **[Credit Scoring & Risk Assessment](<./Credit_Scoring_&_Risk_Assessment.ipynb>)** | Develops a credit scoring model to assess creditworthiness and predict loan default risk. | `Scikit-learn`, `Pandas`, `XGBoost`, `Matplotlib` |
+
+| **[Aviation Predictive Manpower & Delay Analysis](<./Aviation_Predictive_Manpower_&_Delay_Analysis.ipynb>)** | Analyzes aviation data to predict manpower needs and potential flight delays, optimizing operational efficiency. | `Pandas`, `Scikit-learn`, `Matplotlib`, `Seaborn` |
+
+| **[Stock Price Forecasting](./Stock_predict_nuralprhophet.ipynb)** | Time-series forecasting using NeuralProphet to identify market trends and seasonal patterns. | `NeuralProphet`, `PyTorch`, `yfinance`, `Pandas` |
 
 ## 🛠️ Technologies & Tools
 
